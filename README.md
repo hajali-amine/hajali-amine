@@ -22,8 +22,10 @@
 </h2>
 
 <div style="float:left;margin:0 10px 10px 0" markdown="1">
-    ![github_stats](https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite)
+    ![github_stats][1]
 </div>
+
+[1]: https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite
 
 <h2 align="center">
     <b>Well, it was nice meeting you! Have a great day! 👋</b>
