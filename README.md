@@ -21,7 +21,9 @@
     <b>Would you like to see some stats? 💯</b>
 </h2>
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite)
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![github_stats](https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite)
+</div>
 
 <h2 align="center">
     <b>Well, it was nice meeting you! Have a great day! 👋</b>
