@@ -8,6 +8,7 @@
 * I am also someone who enjoys meeting new people, networking and working in teams! 🤗
 * Oh, and did I mention that I love theatre? 🎭
 
+
 <h2 align="center">
     <b>Let's connect! 😁</b>
 </h2>
@@ -16,13 +17,13 @@
 [ <img src='https://github.com/hajali-amine/hajali-amine/blob/main/assets/Facebook-icon-design-illustration-on-transparent-background-PNG.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/smeortan/)
 
 
-
 <h2 align="center">
     <b>Would you like to see some stats? 💯</b>
 </h2>
 
-
-![github_stats](https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite" alt="Anurag's github stats">
+</p>
 
 
 <h2 align="center">
