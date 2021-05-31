@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Hello there, mate! 👋</b>
+    <b>Hello there, mate! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b>
 </h1>
 
 * My name is Amine Haj Ali, and I am someone who loves __dark mode__. ✨
