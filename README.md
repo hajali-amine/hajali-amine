@@ -27,5 +27,5 @@
 
 
 <h2 align="center">
-    <b>Well, it was nice meeting you! Have a great day! 👋</b>
+    <b>Well, it was nice meeting you! Have a great day! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b>
 </h2>
