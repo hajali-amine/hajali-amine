@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite" alt="Anurag's github stats">
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hajali-amine&theme=xcode	"/><br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=hajali-amine&hide_border=false&theme=xcode"/><br><br>
 
 <h2 align="center">
     <b>Well, it was nice meeting you! Have a great day! :wave:	
