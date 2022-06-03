@@ -1,4 +1,4 @@
-[![Gmail](https://img.shields.io/badge/-amine.hajali-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amine.hajali@insat.ucar.tn) ![Count](https://visitor-badge.laobi.icu/badge?page_id=hajali-amine.hajali-amine) [![Github](https://img.shields.io/github/followers/hajali-amine?label=Follow&style=social)](https://github.com/ShathaCodes) 
+[![Gmail](https://img.shields.io/badge/-amine.hajali-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amine.hajali@insat.ucar.tn) ![Count](https://komarev.com/ghpvc/?username=hajali-amine) [![Github](https://img.shields.io/github/followers/hajali-amine?label=Follow&style=social)](https://github.com/hajali-amine) 
 
 <h1 align="center">
     <b>Hello there, mate! :wave:  </b>
