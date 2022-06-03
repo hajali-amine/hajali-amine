@@ -1,5 +1,7 @@
+[![Gmail](https://img.shields.io/badge/-amine.hajali-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amine.hajali@insat.ucar.tn) ![Count](https://visitor-badge.laobi.icu/badge?page_id=hajali-amine.hajali-amine) [![Github](https://img.shields.io/github/followers/hajali-amine?label=Follow&style=social)](https://github.com/ShathaCodes) 
+
 <h1 align="center">
-    <b>Hello there, mate! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b>
+    <b>Hello there, mate! :wave:  </b>
 </h1>
 
 * My name is Amine Haj Ali, and I am someone who loves __dark mode__. ✨
@@ -25,7 +27,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hajali-amine&show_icons=true&theme=graywhite" alt="Anurag's github stats">
 </p>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=hajali-amine&hide_border=true&theme=graywhite"/><br><br>
 
 <h2 align="center">
-    <b>Well, it was nice meeting you! Have a great day! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </b>
+    <b>Well, it was nice meeting you! Have a great day! :wave:	
 </h2>
