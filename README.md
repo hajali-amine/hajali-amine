@@ -13,8 +13,8 @@
     <b>Let's connect! 😁</b>
 </h2>
 
-[<p align="center"></b> <img src='https://github.com/hajali-amine/hajali-amine/blob/main/assets/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hajaliamine/) 
-[ <img src='https://github.com/hajali-amine/hajali-amine/blob/main/assets/Facebook-icon-design-illustration-on-transparent-background-PNG.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/smeortan/)
+[<p align="center"></b> <img src='assets/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/hajaliamine/) 
+[ <img src='assets/Facebook-icon-design-illustration-on-transparent-background-PNG.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/smeortan/)
 
 
 <h2 align="center">
