@@ -4,11 +4,21 @@
     <b>Hello there, mate! :wave:</b>
 </h1>
 
-* My name is Amine Haj Ali, and I am someone who loves __dark mode__. ✨
-* I mainly code in Java and Python, but I am always learning. 👨🏽‍💻
-* I am a passionate developper who enjoys __Backend Development__, with great enthusiasm for __Automation__ and __DevOps__! 🚀
-* I am also someone who enjoys meeting new people, networking and working in teams! 🤗
-* Oh, and did I mention that I love theatre? 🎭
+``` yaml
+introduction:
+    name: Amine Hajali
+    interests:
+    - Backend Development
+    - DevOps
+    - Theater
+    settings:
+        dark_mode: true
+        language: English
+        os: Ubuntu
+    bio: |
+        I am a person who enjoys theater, meeting new people and music!
+        I also have 'traveling the world' in my bucket list!    
+```
 
 <h2 align="center">
     <b>Let's connect! 😁</b>
