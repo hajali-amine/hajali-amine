@@ -4,22 +4,6 @@
     <b>Hello there, mate! :wave:</b>
 </h1>
 
-``` yaml
-introduction:
-    name: Amine Hajali
-    interests:
-    - Backend Development
-    - DevOps
-    - Theater
-    settings:
-        dark_mode: true
-        language: English
-        os: Ubuntu
-    bio: |
-        I am a person who enjoys theater, meeting new people and music!
-        I also have 'traveling the world' in my bucket list!    
-```
-
 <h2 align="center">
     <b>Let's connect! 😁</b>
 </h2>
